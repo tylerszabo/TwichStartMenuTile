@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 134 134"
+   version="1.1"
+   sodipodi:docname="Glitch_White_RGB_WithBG.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="1.761194"
+     inkscape:cx="-67.444915"
+     inkscape:cy="67"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;fill-rule:evenodd;}</style>
+  </defs>
+  <title
+     id="title6">Glitch_White_RGB</title>
+  <rect
+     style="fill:#6441a4"
+     id="background"
+     width="100%"
+     height="100%"
+     x="0"
+     y="0" />
+  <path
+     class="cls-1"
+     d="m 89,77 -9,23 v 94 h 32 v 17 h 18 l 17,-17 h 26 l 35,-35 V 77 Z m 107,76 -20,20 h -32 l -17,17 V 173 H 100 V 89 h 96 z m -20,-41 v 35 h -12 v -35 z m -32,0 v 35 h -12 v -35 z"
+     id="path8"
+     transform="scale(.8) translate(-61, -61.6)"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-rule:evenodd" />
+</svg>
